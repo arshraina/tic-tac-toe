@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import circle_icon from "/Users/arshraina/Desktop/tic-tac-toe/src/assets/circle.png";
-import cross_icon from "/Users/arshraina/Desktop/tic-tac-toe/src/assets/cross.png";
+import circle_icon from "../assets/circle.png";
+import cross_icon from "../assets/cross.png";
 
 const TicTacToe = () => {
   const [count, setCount] = useState(0);

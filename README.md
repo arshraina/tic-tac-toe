@@ -16,7 +16,7 @@ A simple **Tic-Tac-Toe** game built with **React** and **Tailwind CSS**. This pr
 
 ## 🛠️ Installation & Setup  
 
-- git clone https://github.com/arshraina/TicTacToe.git
+- git clone https://github.com/arshraina/tic-tac-toe.git
 - cd tic-tac-toe
 - npm install
 - npm run dev
