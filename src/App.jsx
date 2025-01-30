@@ -1,12 +1,13 @@
 import { useState } from 'react'
 import './index.css'
+import TicTacToe from './components/TicTacToe'
 
 function App() {
 
   return (
     <>
-      <div class ="text-red-500">
-        Hello
+      <div>
+        <TicTacToe/>
       </div>
     </>
   )
