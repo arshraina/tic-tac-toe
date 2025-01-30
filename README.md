@@ -1,8 +1,22 @@
-# React + Vite
+# 🏆 Tic-Tac-Toe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Tic-Tac-Toe** game built with **React** and **Tailwind CSS**. This project allows two players to play alternately on a 3x3 grid, with **X always going first**. The game automatically detects a winner and prevents further moves after a win.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
+
+- 🎮 **Two-player mode** (O vs X)  
+- 🏆 **Winner detection** with immediate game lock  
+- 🎨 **Responsive UI** built with Tailwind CSS  
+- 🔄 **Game reset button** to restart the game  
+- 🖼️ **Custom O & X icons** for a visually appealing interface  
+
+---
+
+## 🛠️ Installation & Setup  
+
+- git clone https://github.com/arshraina/TicTacToe.git
+- cd tic-tac-toe
+- npm install
+- npm run dev

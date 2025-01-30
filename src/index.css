@@ -1,7 +1,9 @@
 @import "tailwindcss";
+
 body{
     background: #0f1b21;
 }
+
 .boxes {
     @apply flex w-44 h-44 bg-[#1f3540] border-4 border-[#0f1b21] rounded-lg cursor-pointer;
-  }
+}
